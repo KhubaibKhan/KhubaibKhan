@@ -4,8 +4,8 @@
 ### <i>About</i>
 
 -  **Learning :** Flutter, Reinforcement Learning and Project Management	
--  **Languages :** Python, C, JavaScript💻
--  **Hobbies :** Articles📕 & Music :headphones:
+-  **Languages :** Python, C, C++, JavaScript💻
+-  **Hobbies :** Articles📕 & games
 -  **Organisation :** [AI Enthusiasts](https://https://github.com/AIEnthusiasts)
 
 <p align="center">
