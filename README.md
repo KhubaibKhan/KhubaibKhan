@@ -4,7 +4,7 @@
 ### <i>About</i>
 
 -  **Learning :** Flutter, Reinforcement Learning and Project Management	
--  **Languages :** Python, C, C++, JavaScript💻
+-  **Languages :** Python, C, C++, JavaScript💻, dart
 -  **Hobbies :** Articles📕 & games
 -  **Organisation :** [AI Enthusiasts](https://https://github.com/AIEnthusiasts)
 
