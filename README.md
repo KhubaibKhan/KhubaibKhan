@@ -4,7 +4,7 @@
 ### <i>About</i>
 
 -  **Learning :** Robotics, Computer Vision and Deep Learning	
--  **Languages :** Python, C, C++, JavaScript💻, dart
+-  **Languages :** Pytorch, ROS, python, C/C++
 -  **Hobbies :** Articles📕 & games
 -  **Organisation :** [AI Enthusiasts](https://https://github.com/AIEnthusiasts)
 
